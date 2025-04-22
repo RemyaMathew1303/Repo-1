@@ -1,3 +1,5 @@
 Maven
-SpringBoot
-Junkins
+Spring Boot
+Jenkins
+jsp
+Servlet
